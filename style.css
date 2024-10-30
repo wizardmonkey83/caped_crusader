@@ -1,0 +1,67 @@
+/* Set universal styles */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Ligconsolata', monospace;
+    background-color: #000000; /* Pure black background */
+    color: #FFFFFF; /* White text */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Main dialogue box container */
+.box {
+    width: 623px;
+    padding: 20px;
+    background-color: #000000; /* Match background to blend in */
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: 14px; /* Adjust based on Figma */
+    line-height: 1.5em;
+}
+
+/* Dialogue container styling */
+#typewriter-container {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    white-space: pre-wrap;
+    line-height: 1.5em;
+}
+
+/* Bold style for character names */
+.speaker {
+    font-weight: bold;
+}
+
+/* Styling for riddle screen */
+#riddle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+
+#riddle-question {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+#riddle-answer {
+    margin-top: 10px;
+    border: none;
+    border-bottom: 1px solid #FFFFFF;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-size: 1.2em;
+    text-align: left;
+}
+
+input::placeholder {
+    color: #888;
+}
