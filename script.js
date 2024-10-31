@@ -107,7 +107,7 @@ const dialogueLines = [
     "Robin: Or to show us… what’s already there.",
     "Batman: Robin. Focus. Don’t let Hatter get under your skin.",
     "Robin: Right… right. Sorry, it’s just this place. Gets under your skin.",
-    "Batman: Three pieces, all designed to elicit something primal. An echo, a flicker, a reflection. Scarecrow and Hatter want us to face something… something we fear.",
+    "Batman: Three pieces, all designed to elicit something primal. The past, a shadow, and unveiling the truth. Scarecrow and Hatter want us to face something… something we fear.",
     "Robin: Maybe it’s not just about fear. Maybe… it’s about control.",
     "Batman: Fear. It’s the only thing Scarecrow would consider worth building all this for.",
     "As Batman says fear, the projector flickers to life, casting a clear image of a hidden trapdoor in the corner of the room.",
