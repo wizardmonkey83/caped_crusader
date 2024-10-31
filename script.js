@@ -37,7 +37,7 @@ const dialogueLines = [
     "Batman reads the riddle on the card aloud.",
     "RIDDLE_TRIGGER_1", // first riddle trigger
     "Robin: No voice… no face… but it ‘echoes.’ Batman, this isn’t just a puzzle; it’s almost like a description.",
-    "Batman: Not just a riddle—it’s a reflection. Scarecrow’s trying to make us see something about Gotham… something that’s always here but never seen directly. Something haunting every corner. The answer is ‘darkness’",
+    "Batman: Not just a riddle—it’s a reflection. Scarecrow’s trying to make us see something about Gotham… something that’s always here but never seen directly. The answer is ‘memories’",
     "The room’s lights flicker in response. A hidden speaker crackles to life, and a taunting voice fills the room.",
     "Riddler: Oh, bravo, Batman! I’m almost impressed. But don’t flatter yourself too much; that was merely a warm-up. I’ll keep this interesting if you promise to keep up.",
     "Batman: Looks like someone’s been spending too much time alone with his thesaurus.",
