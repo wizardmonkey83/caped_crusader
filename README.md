@@ -1,2 +1,2 @@
 # caped_crusader
-Beginning of the batman game. 
+First edition of the batman game
