@@ -155,7 +155,8 @@ const dialogueLines = [
     "Batman: That’s not you talking. Hatter’s planted this doubt, this anger. Fight it, Robin. Remember who you are.",
     "Robin’s gaze flickers. A shadow of doubt crosses his face.",
     "Robin: You always say that. But maybe I’m more than what you think, more than the person you want me to be.",
-    "Batman: This isn’t about me, Robin. It’s about us—about Gotham. You’re letting them take control. Don’t let them turn you into someone you’re no…"
+    "Batman: This isn’t about me, Robin. It’s about us—about Gotham. You’re letting them take control. Don’t let them turn you into someone you’re no…",
+    "To be continued..."
 ];
 
 // Array of riddles with question and answer for each
