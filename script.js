@@ -161,7 +161,7 @@ const dialogueLines = [
 // Array of riddles with question and answer for each
 const riddles = [
     { question: "I have no voice but echo well, I am not seen but cast a spell. I linger in the silent dread, Where shadows dance and fears are fed. I’m older than time, yet birthed anew, A specter unseen, but ever in view. What am I?", answer: "darkness" },
-    { question: "Three speak without words. The first, an echo of memory. The second, a flicker of presence. The third, a veil that reveals. Only together will they name me.", answer: "fear" },
+    { question: "Three voices, yet none speak. One is a whisper from the past. Another, a shadow cast. The third, a shroud that uncovers truth. Together, they reveal my name.", answer: "fear" },
     { question: "I am the whisper that deafens, the sight that blinds, I am the breath that strangles, the key that binds. Ever-present, never seen, Yet I govern where you’ve been. What am I?", answer: "the mind" }
 ];
 
